@@ -1,6 +1,6 @@
 # DetectronX
 
-DetectronX is a deep learning-based object detection project using [insert framework/library]. It allows you to train and deploy models for detecting objects in images.
+DetectronX is a deep learning-based object detection project using TensorFlow, Keras, and CV2. It allows you to train and deploy models for detecting objects in images.
 
 ## Key Features
 
@@ -21,9 +21,18 @@ cd DetectronX
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 Fork the repository.
-Create your feature branch (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/AmazingFeature).
+Create your feature branch 
+```
+git checkout -b feature/AmazingFeature
+```
+Commit your changes 
+```
+git commit -m 'Add some feature'
+```
+Push to the branch 
+```
+git push origin feature/AmazingFeature
+```
 Open a pull request.
 
 ## 📞 Contact

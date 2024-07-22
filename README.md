@@ -1,12 +1,16 @@
 # DetectronX
 
-DetectronX is a deep learning-based object detection project using TensorFlow, Keras, and CV2. It allows you to train and deploy models for detecting objects in images.
+Discover DetectronX: Your gateway to cutting-edge object detection powered by TensorFlow, Keras, and CV2. Unlock the ability to effortlessly train and deploy models that excel in identifying objects within images.
+
+## How you can use it
+- First, download the kaggle.json file from your Kaggle account under the API section by clicking on Create New Token
+- Upload the kaggle.json file in your Colab File
+- Copy the API command of any dataset from 3 dots
 
 ## Key Features
 
 - **State-of-the-art Object Detection**: Utilizes advanced models for accurate object detection.
-- **Customizable Training**: Train models on your own dataset with flexible configuration options.
-- **Efficient Inference**: Fast and efficient inference pipeline for real-time applications.
+- **Customizable Training**: Train models on your dataset with flexible configuration options.
 
 ## Installation
 
